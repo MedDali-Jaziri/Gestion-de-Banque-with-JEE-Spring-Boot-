@@ -45,6 +45,7 @@ Bank management carried out by Mohamed Ali Jaziri this project was carried out b
 <ul>
  <li>The DAO layer which is based on Spring Data, JPA, Hibernate and JDBC.</li>
  <liThe Business layer.></li>
+ <li>The Business layer.</li>
  <li>The MVC-based Web layer on the Server side rn using Thymeleaf.</li>
  <li>Security is based on Spring Security.</li>
  </ul>
