@@ -13,5 +13,4 @@ Bank management carried out by Mohamed Ali Jaziri this project was carried out b
   <li>Each account can undergo several operations.</li>
   <li>There are two types of transaction: Payment and Withdrawal</li>
   <li>An operation is defined by a number, a date and an amount.</li>
-  <li></li>
 </ul>
