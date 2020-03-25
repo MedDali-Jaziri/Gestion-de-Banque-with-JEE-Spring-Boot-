@@ -16,3 +16,26 @@ Bank management carried out by Mohamed Ali Jaziri this project was carried out b
   <li>An operation is defined by a number, a date and an amount.</li>
 </ul>
 <h5>The main objectives:</h5>
+<h6> Functional requirements:</h6>
+<p>The application must allow to:</p>
+<ul>
+ <li>Manage customers:</li>
+ <ul>
+  <li>Add a client.</li>
+  <li> Consult all customers.</li>
+  <li> Consult customers whose name contains a keyword.</li>
+ </ul>
+ <li>Manage accounts:</li>
+ <ul>
+  <li>Add an account.</li>
+  <li>Consult an account.</li>
+ </ul>
+ <li>Manage operations:</li>
+ <ul>
+  <li>Make an amount payment into an account.</li>
+  <li>Withdraw an amount from an account.</li>
+  <li>Transfer money from one account to another.</li>
+  <li>Consult the operations of an account page by page.</li>
+ </ul>
+ <li>The operations require an authentication operation.</li>
+</ul>
