@@ -16,7 +16,7 @@ Bank management carried out by Mohamed Ali Jaziri this project was carried out b
   <li>An operation is defined by a number, a date and an amount.</li>
 </ul>
 <h5>The main objectives:</h5>
-<h6> Functional requirements:</h6>
+<h6> 1. Functional requirements:</h6>
 <p>The application must allow to:</p>
 <ul>
  <li>Manage customers:</li>
@@ -39,3 +39,13 @@ Bank management carried out by Mohamed Ali Jaziri this project was carried out b
  </ul>
  <li>The operations require an authentication operation.</li>
 </ul>
+<h6> 2. Exigences Techniques :</h6>
+<p>The data is stored in a MySQL database.</p>
+<p>The application consists of three layers:
+<ul>
+ <li>The DAO layer which is based on Spring Data, JPA, Hibernate and JDBC.</li>
+ <liThe Business layer.></li>
+ <li>The MVC-based Web layer on the Server side rn using Thymeleaf.</li>
+ <li>Security is based on Spring Security.</li>
+ </ul>
+</p>
